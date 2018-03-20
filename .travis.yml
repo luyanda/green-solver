@@ -1,7 +1,9 @@
 sudo: false
 language: java
 
-script:
+before_script:
   - cd green/
+
+script:
   - ant build
   - ant test
