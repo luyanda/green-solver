@@ -50,7 +50,7 @@ import za.ac.sun.cs.green.service.barvinok.CountBarvinokWithBounderTest;
 	SMTLIB2Parser0Test.class,
 	// //CountBarvinokWithBounderTest.class, //needs latte
 	SATZ3CompareTest.class,		//3 fails[bad asserts]
-	ModelZ3JavaTest.class,
+	// ModelZ3JavaTest.class,
 	SATZ3JavaTest.class
 })
 
