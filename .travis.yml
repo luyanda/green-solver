@@ -1,0 +1,7 @@
+sudo: false
+language: java
+
+script:
+  - cd green/
+  - ant build
+  - ant test
